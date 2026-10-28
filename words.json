@@ -1,0 +1,2019 @@
+{
+  "schema": 1,
+  "weeks": [
+    {
+      "id": "week-4",
+      "name": "독해 4과 · 해커스 Day40–42",
+      "subtitle": "TEPS VOCAB 34 · 독해 4과 66 · 해커스 90 · 문법 10",
+      "words": [
+        {
+          "word": "abdicate",
+          "meaning": "사임하다, 퇴위하다",
+          "source": "answer"
+        },
+        {
+          "word": "allegedly",
+          "meaning": "전해진 바에 의하면",
+          "source": "answer"
+        },
+        {
+          "word": "collusion",
+          "meaning": "공모, 결탁",
+          "source": "answer"
+        },
+        {
+          "word": "conscript",
+          "meaning": "군대에 징집하다",
+          "source": "answer"
+        },
+        {
+          "word": "dapper",
+          "meaning": "말쑥한",
+          "source": "answer"
+        },
+        {
+          "word": "demarcation",
+          "meaning": "경계, 구분",
+          "source": "answer"
+        },
+        {
+          "word": "depose",
+          "meaning": "물러나게 하다",
+          "source": "answer"
+        },
+        {
+          "word": "depose",
+          "meaning": "증언하다",
+          "source": "answer"
+        },
+        {
+          "word": "diatribe",
+          "meaning": "비판, 공격",
+          "source": "answer"
+        },
+        {
+          "word": "entourage",
+          "meaning": "수행단",
+          "source": "answer"
+        },
+        {
+          "word": "envoy",
+          "meaning": "외교 사절",
+          "source": "answer"
+        },
+        {
+          "word": "evasive",
+          "meaning": "회피적인",
+          "source": "answer"
+        },
+        {
+          "word": "impeach",
+          "meaning": "(공무원을) 탄핵하다",
+          "source": "answer"
+        },
+        {
+          "word": "inception",
+          "meaning": "시작, 발단, 개시",
+          "source": "answer"
+        },
+        {
+          "word": "irreconcilable",
+          "meaning": "타협할 수 없는, 양립할 수 없는",
+          "source": "answer"
+        },
+        {
+          "word": "mollify",
+          "meaning": "진정시키다",
+          "source": "answer"
+        },
+        {
+          "word": "ostensible",
+          "meaning": "표면적인",
+          "source": "answer"
+        },
+        {
+          "word": "jettison",
+          "meaning": "(화물 등을) 버리다",
+          "source": "answer"
+        },
+        {
+          "word": "jitters",
+          "meaning": "초조, 신경과민",
+          "source": "answer"
+        },
+        {
+          "word": "languish",
+          "meaning": "기력이 없어지다, (불쾌한) 일을 겪다",
+          "source": "answer"
+        },
+        {
+          "word": "linger",
+          "meaning": "꾸물거리다",
+          "source": "answer"
+        },
+        {
+          "word": "overt",
+          "meaning": "명백한, 공공연한",
+          "source": "answer"
+        },
+        {
+          "word": "prerogative",
+          "meaning": "특권",
+          "source": "answer"
+        },
+        {
+          "word": "quarantine",
+          "meaning": "격리하다",
+          "source": "answer"
+        },
+        {
+          "word": "queasy",
+          "meaning": "메스꺼운, 현기증 나는",
+          "source": "answer"
+        },
+        {
+          "word": "retract",
+          "meaning": "철회하다, 취소하다",
+          "source": "answer"
+        },
+        {
+          "word": "ridicule",
+          "meaning": "비웃다, 조소하다",
+          "source": "answer"
+        },
+        {
+          "word": "scrutinize",
+          "meaning": "세밀히 조사하다",
+          "source": "answer"
+        },
+        {
+          "word": "scrutiny",
+          "meaning": "정밀 조사",
+          "source": "answer"
+        },
+        {
+          "word": "seedy",
+          "meaning": "누추한, 초라한",
+          "source": "answer"
+        },
+        {
+          "word": "tamper",
+          "meaning": "함부로 변경하다",
+          "source": "answer"
+        },
+        {
+          "word": "unobtrusively",
+          "meaning": "주제넘지 않게",
+          "source": "answer"
+        },
+        {
+          "word": "vociferous",
+          "meaning": "큰 소리로 외치는, 떠들썩한",
+          "source": "answer"
+        },
+        {
+          "word": "neutron",
+          "meaning": "중성자",
+          "source": "answer"
+        },
+        {
+          "word": "carnivorous",
+          "meaning": "[형] 식충의, 육식성의",
+          "source": "answer"
+        },
+        {
+          "word": "autotrophic",
+          "meaning": "[형] 자가 영양성의",
+          "source": "answer"
+        },
+        {
+          "word": "photosynthesis",
+          "meaning": "[명] 광합성",
+          "source": "answer"
+        },
+        {
+          "word": "chlorophyll",
+          "meaning": "[명] 엽록소",
+          "source": "answer"
+        },
+        {
+          "word": "pigment",
+          "meaning": "[명] 색소",
+          "source": "answer"
+        },
+        {
+          "word": "electromagnetic",
+          "meaning": "[형] 전자기의",
+          "source": "answer"
+        },
+        {
+          "word": "erroneously",
+          "meaning": "[부] 잘못, 틀리게",
+          "source": "answer"
+        },
+        {
+          "word": "attain",
+          "meaning": "[동] 얻다",
+          "source": "answer"
+        },
+        {
+          "word": "insectivorous",
+          "meaning": "[형] 식충성의, 곤충을 먹는",
+          "source": "answer"
+        },
+        {
+          "word": "bladder",
+          "meaning": "[명] 주머니",
+          "source": "answer"
+        },
+        {
+          "word": "vascular",
+          "meaning": "[형] 관다발의",
+          "source": "answer"
+        },
+        {
+          "word": "anatomical",
+          "meaning": "[형] 해부학적인",
+          "source": "answer"
+        },
+        {
+          "word": "paleontological",
+          "meaning": "[형] 고생물학적인",
+          "source": "answer"
+        },
+        {
+          "word": "theropod",
+          "meaning": "[명] 수각류(두 발로 보행하는 육식공룡)",
+          "source": "answer"
+        },
+        {
+          "word": "Archaeopteryx",
+          "meaning": "[명] 시조새",
+          "source": "answer"
+        },
+        {
+          "word": "assume",
+          "meaning": "[동] (특성을) 지니다, 띠다",
+          "source": "answer"
+        },
+        {
+          "word": "inevitable",
+          "meaning": "[형] 필연적인, 불가피한",
+          "source": "answer"
+        },
+        {
+          "word": "correlation",
+          "meaning": "[명] 상관 관계",
+          "source": "answer"
+        },
+        {
+          "word": "maneuverability",
+          "meaning": "[명] 기동성, 조종성",
+          "source": "answer"
+        },
+        {
+          "word": "aloft",
+          "meaning": "[부] 하늘 높이",
+          "source": "answer"
+        },
+        {
+          "word": "wishbone",
+          "meaning": "[명] 위시본(조류의 목차 가슴 사이의 V자형 뼈)",
+          "source": "answer"
+        },
+        {
+          "word": "elongated",
+          "meaning": "[형] 길어진",
+          "source": "answer"
+        },
+        {
+          "word": "alteration",
+          "meaning": "[명] 변화, 개조",
+          "source": "answer"
+        },
+        {
+          "word": "metabolism",
+          "meaning": "[명] 신진대사",
+          "source": "answer"
+        },
+        {
+          "word": "endotherm",
+          "meaning": "[명] 온혈 동물, 정온 동물",
+          "source": "answer"
+        },
+        {
+          "word": "ectotherm",
+          "meaning": "[명] 냉혈 동물, 변온 동물",
+          "source": "answer"
+        },
+        {
+          "word": "commence",
+          "meaning": "[동] 시작하다",
+          "source": "answer"
+        },
+        {
+          "word": "primordial",
+          "meaning": "[형] 원시적인",
+          "source": "answer"
+        },
+        {
+          "word": "exploit",
+          "meaning": "[동] 이용하다",
+          "source": "answer"
+        },
+        {
+          "word": "disperse",
+          "meaning": "[동] 퍼지다",
+          "source": "answer"
+        },
+        {
+          "word": "hone",
+          "meaning": "[동] (기술을) 연마하다",
+          "source": "answer"
+        },
+        {
+          "word": "niche",
+          "meaning": "[명] 생태적 지위, 틈새",
+          "source": "answer"
+        },
+        {
+          "word": "nomadic",
+          "meaning": "[형] 유목의",
+          "source": "answer"
+        },
+        {
+          "word": "pastoralism",
+          "meaning": "[명] 목축",
+          "source": "answer"
+        },
+        {
+          "word": "hamper",
+          "meaning": "[동] 방해하다",
+          "source": "answer"
+        },
+        {
+          "word": "constraint",
+          "meaning": "[명] 제약, 제한",
+          "source": "answer"
+        },
+        {
+          "word": "settlement",
+          "meaning": "[명] 정착지",
+          "source": "answer"
+        },
+        {
+          "word": "grazing",
+          "meaning": "[명] 방목, 목축",
+          "source": "answer"
+        },
+        {
+          "word": "sparse",
+          "meaning": "[형] 드문드문한",
+          "source": "answer"
+        },
+        {
+          "word": "pasture",
+          "meaning": "[명] 목초지, 초원",
+          "source": "answer"
+        },
+        {
+          "word": "herd",
+          "meaning": "[명] (가축의) 떼, 무리",
+          "source": "answer"
+        },
+        {
+          "word": "permanent",
+          "meaning": "[형] 영구적인",
+          "source": "answer"
+        },
+        {
+          "word": "sedentary",
+          "meaning": "[형] 정착하는",
+          "source": "answer"
+        },
+        {
+          "word": "interdependence",
+          "meaning": "[명] 상호 의존성",
+          "source": "answer"
+        },
+        {
+          "word": "migrant",
+          "meaning": "[형] 유목하는, 이주하는",
+          "source": "answer"
+        },
+        {
+          "word": "breakthrough",
+          "meaning": "[명] 돌파구",
+          "source": "answer"
+        },
+        {
+          "word": "divert",
+          "meaning": "[동] (방향을) 돌리다",
+          "source": "answer"
+        },
+        {
+          "word": "at intervals",
+          "meaning": "간격을 두고",
+          "source": "answer"
+        },
+        {
+          "word": "cavalry",
+          "meaning": "[명] 기병대",
+          "source": "answer"
+        },
+        {
+          "word": "reluctance",
+          "meaning": "[명] 꺼리는 것",
+          "source": "answer"
+        },
+        {
+          "word": "faction",
+          "meaning": "[명] 파벌, 분파",
+          "source": "answer"
+        },
+        {
+          "word": "stability",
+          "meaning": "[명] 안정성",
+          "source": "answer"
+        },
+        {
+          "word": "overwhelmingly",
+          "meaning": "[부] 압도적으로",
+          "source": "answer"
+        },
+        {
+          "word": "perspective",
+          "meaning": "[명] 관점",
+          "source": "answer"
+        },
+        {
+          "word": "measurable",
+          "meaning": "[형] 측정 가능한",
+          "source": "answer"
+        },
+        {
+          "word": "entity",
+          "meaning": "[명] 실체, 존재",
+          "source": "answer"
+        },
+        {
+          "word": "monumental",
+          "meaning": "[형] 기념비적인, 엄청난",
+          "source": "answer"
+        },
+        {
+          "word": "breakthrough",
+          "meaning": "[명] (과학적) 발견",
+          "source": "answer"
+        },
+        {
+          "word": "temper",
+          "meaning": "[동] 완화하다",
+          "source": "answer"
+        },
+        {
+          "word": "manipulate",
+          "meaning": "[동] 조작하다",
+          "source": "answer"
+        },
+        {
+          "word": "expire",
+          "meaning": "[동] 소멸하다, 죽다",
+          "source": "answer"
+        },
+        {
+          "word": "respiration",
+          "meaning": "[명] 호흡",
+          "source": "answer"
+        },
+        {
+          "word": "combustion",
+          "meaning": "[명] 연소",
+          "source": "answer"
+        },
+        {
+          "word": "deprive",
+          "meaning": "[동] 빼앗다",
+          "source": "answer"
+        },
+        {
+          "word": "constituent",
+          "meaning": "[명] 요소, 성분",
+          "source": "answer"
+        },
+        {
+          "word": "on the verge of",
+          "meaning": "~의 직전에",
+          "source": "answer"
+        },
+        {
+          "word": "abbreviate",
+          "meaning": "축약하다, 줄여 쓰다",
+          "source": "answer"
+        },
+        {
+          "word": "acquire",
+          "meaning": "습득하다, 획득하다",
+          "source": "answer"
+        },
+        {
+          "word": "colloquial",
+          "meaning": "구어체의, 일상 회화의",
+          "source": "answer"
+        },
+        {
+          "word": "converse",
+          "meaning": "대화하다, 거꾸로의",
+          "source": "answer"
+        },
+        {
+          "word": "define",
+          "meaning": "정의하다, 분명히 하다",
+          "source": "answer"
+        },
+        {
+          "word": "derive",
+          "meaning": "유래하다, 파생하다",
+          "source": "answer"
+        },
+        {
+          "word": "intonation",
+          "meaning": "억양, 어조",
+          "source": "answer"
+        },
+        {
+          "word": "intrinsic",
+          "meaning": "고유한, 본질적인",
+          "source": "answer"
+        },
+        {
+          "word": "linguistic",
+          "meaning": "언어의, 언어학의",
+          "source": "answer"
+        },
+        {
+          "word": "nuance",
+          "meaning": "뉘앙스, 미묘한 차이",
+          "source": "answer"
+        },
+        {
+          "word": "omit",
+          "meaning": "생략하다, 빼다",
+          "source": "answer"
+        },
+        {
+          "word": "outdated",
+          "meaning": "시대에 뒤진, 구식인",
+          "source": "answer"
+        },
+        {
+          "word": "paraphrase",
+          "meaning": "바꾸어 말하다",
+          "source": "answer"
+        },
+        {
+          "word": "pinpoint",
+          "meaning": "정확히 찾아내다",
+          "source": "answer"
+        },
+        {
+          "word": "primary",
+          "meaning": "주요한, 근본적인",
+          "source": "answer"
+        },
+        {
+          "word": "proclaim",
+          "meaning": "선포하다, 선언하다",
+          "source": "answer"
+        },
+        {
+          "word": "progressive",
+          "meaning": "진보적인, 점진적인",
+          "source": "answer"
+        },
+        {
+          "word": "purpose",
+          "meaning": "목적, 의도, 결심",
+          "source": "answer"
+        },
+        {
+          "word": "singular",
+          "meaning": "단일한, 단수의",
+          "source": "answer"
+        },
+        {
+          "word": "term",
+          "meaning": "용어, 말, 기간",
+          "source": "answer"
+        },
+        {
+          "word": "terminology",
+          "meaning": "전문 용어",
+          "source": "answer"
+        },
+        {
+          "word": "verbal",
+          "meaning": "언어의, 말의",
+          "source": "answer"
+        },
+        {
+          "word": "bilingual",
+          "meaning": "두 개 언어를 할 줄 아는",
+          "source": "answer"
+        },
+        {
+          "word": "fluency",
+          "meaning": "유창함, 능숙도",
+          "source": "answer"
+        },
+        {
+          "word": "grammatical",
+          "meaning": "문법적인",
+          "source": "answer"
+        },
+        {
+          "word": "jargon",
+          "meaning": "전문 용어, 특수 용어",
+          "source": "answer"
+        },
+        {
+          "word": "phonetic",
+          "meaning": "발음의, 음성의",
+          "source": "answer"
+        },
+        {
+          "word": "prefix",
+          "meaning": "접두사",
+          "source": "answer"
+        },
+        {
+          "word": "pronunciation",
+          "meaning": "발음, 발음 표기",
+          "source": "answer"
+        },
+        {
+          "word": "usage",
+          "meaning": "사용, 쓰임새",
+          "source": "answer"
+        },
+        {
+          "word": "chronically",
+          "meaning": "만성적으로",
+          "source": "answer"
+        },
+        {
+          "word": "to advantage",
+          "meaning": "유익하게, 유리하게",
+          "source": "answer"
+        },
+        {
+          "word": "institutionalize",
+          "meaning": "시설에 수용하다",
+          "source": "answer"
+        },
+        {
+          "word": "affection",
+          "meaning": "애정",
+          "source": "answer"
+        },
+        {
+          "word": "acclaim",
+          "meaning": "찬사를 보내다, 환호하다",
+          "source": "answer"
+        },
+        {
+          "word": "adorn",
+          "meaning": "장식하다, 꾸미다",
+          "source": "answer"
+        },
+        {
+          "word": "appreciate",
+          "meaning": "인정하다, 감상하다",
+          "source": "answer"
+        },
+        {
+          "word": "author",
+          "meaning": "저자, 작가, 창시자",
+          "source": "answer"
+        },
+        {
+          "word": "creative",
+          "meaning": "창조적인, 창의적인",
+          "source": "answer"
+        },
+        {
+          "word": "decorative",
+          "meaning": "장식용의, 장식적인",
+          "source": "answer"
+        },
+        {
+          "word": "depict",
+          "meaning": "묘사하다, 그리다",
+          "source": "answer"
+        },
+        {
+          "word": "display",
+          "meaning": "전시하다, 진열하다",
+          "source": "answer"
+        },
+        {
+          "word": "dye",
+          "meaning": "염색하다, 물들이다",
+          "source": "answer"
+        },
+        {
+          "word": "exhibit",
+          "meaning": "전시하다, 나타내다",
+          "source": "answer"
+        },
+        {
+          "word": "express",
+          "meaning": "표현하다, 나타내다",
+          "source": "answer"
+        },
+        {
+          "word": "illustrate",
+          "meaning": "그리다, 설명하다",
+          "source": "answer"
+        },
+        {
+          "word": "impressive",
+          "meaning": "인상적인, 감명 깊은",
+          "source": "answer"
+        },
+        {
+          "word": "indeed",
+          "meaning": "정말, 사실은",
+          "source": "answer"
+        },
+        {
+          "word": "inspire",
+          "meaning": "영감을 주다, 격려하다",
+          "source": "answer"
+        },
+        {
+          "word": "ornament",
+          "meaning": "장식품, 장식하다",
+          "source": "answer"
+        },
+        {
+          "word": "patronage",
+          "meaning": "후원, 지원, 애용",
+          "source": "answer"
+        },
+        {
+          "word": "pigment",
+          "meaning": "색소, 그림물감",
+          "source": "answer"
+        },
+        {
+          "word": "portray",
+          "meaning": "묘사하다, 그리다",
+          "source": "answer"
+        },
+        {
+          "word": "pottery",
+          "meaning": "도자기, 도예",
+          "source": "answer"
+        },
+        {
+          "word": "replicate",
+          "meaning": "복제하다, 모사하다",
+          "source": "answer"
+        },
+        {
+          "word": "visual",
+          "meaning": "시각적인, 시각의",
+          "source": "answer"
+        },
+        {
+          "word": "aesthetics",
+          "meaning": "미학",
+          "source": "answer"
+        },
+        {
+          "word": "artisan",
+          "meaning": "장인, 공예가",
+          "source": "answer"
+        },
+        {
+          "word": "calligraphy",
+          "meaning": "서예",
+          "source": "answer"
+        },
+        {
+          "word": "ceramic",
+          "meaning": "도자기, 도예",
+          "source": "answer"
+        },
+        {
+          "word": "contour",
+          "meaning": "윤곽, 외형, 등고선",
+          "source": "answer"
+        },
+        {
+          "word": "gemstone",
+          "meaning": "보석의 원석",
+          "source": "answer"
+        },
+        {
+          "word": "memoir",
+          "meaning": "회고록, 전기",
+          "source": "answer"
+        },
+        {
+          "word": "theme",
+          "meaning": "주제, 테마",
+          "source": "answer"
+        },
+        {
+          "word": "optimism",
+          "meaning": "낙관주의",
+          "source": "answer"
+        },
+        {
+          "word": "worship",
+          "meaning": "숭배하다",
+          "source": "answer"
+        },
+        {
+          "word": "relive",
+          "meaning": "다시 체험하다",
+          "source": "answer"
+        },
+        {
+          "word": "accuracy",
+          "meaning": "정확성",
+          "source": "answer"
+        },
+        {
+          "word": "abstract",
+          "meaning": "추상적인, 이론적인; 추상화하다",
+          "source": "answer"
+        },
+        {
+          "word": "allegory",
+          "meaning": "우화, 풍자, 비유",
+          "source": "answer"
+        },
+        {
+          "word": "anecdote",
+          "meaning": "일화, 개인적 이야기",
+          "source": "answer"
+        },
+        {
+          "word": "audience",
+          "meaning": "관객, 청중, 시청자",
+          "source": "answer"
+        },
+        {
+          "word": "climax",
+          "meaning": "절정, 최고조",
+          "source": "answer"
+        },
+        {
+          "word": "compilation",
+          "meaning": "모음집, 편집(물)",
+          "source": "answer"
+        },
+        {
+          "word": "connotation",
+          "meaning": "암시, 함축, 내포",
+          "source": "answer"
+        },
+        {
+          "word": "describe",
+          "meaning": "서술하다, 묘사하다",
+          "source": "answer"
+        },
+        {
+          "word": "fable",
+          "meaning": "우화, 전설, 신화",
+          "source": "answer"
+        },
+        {
+          "word": "fiction",
+          "meaning": "허구, 소설",
+          "source": "answer"
+        },
+        {
+          "word": "genre",
+          "meaning": "(예술 작품의) 장르, 유형",
+          "source": "answer"
+        },
+        {
+          "word": "humorous",
+          "meaning": "재미있는, 유머러스한",
+          "source": "answer"
+        },
+        {
+          "word": "monotonous",
+          "meaning": "단조로운, 변화 없는, 지루한",
+          "source": "answer"
+        },
+        {
+          "word": "mythology",
+          "meaning": "신화",
+          "source": "answer"
+        },
+        {
+          "word": "narrate",
+          "meaning": "내레이션을 하다, (이야기 등을) 들려주다",
+          "source": "answer"
+        },
+        {
+          "word": "openly",
+          "meaning": "공공연히, 터놓고, 솔직하게",
+          "source": "answer"
+        },
+        {
+          "word": "prologue",
+          "meaning": "프롤로그, 도입부, 머리말",
+          "source": "answer"
+        },
+        {
+          "word": "protagonist",
+          "meaning": "주인공, 주도자",
+          "source": "answer"
+        },
+        {
+          "word": "scenario",
+          "meaning": "시나리오, 각본, (미래에 가능한) 경우",
+          "source": "answer"
+        },
+        {
+          "word": "sequence",
+          "meaning": "순서, (사건·장면의) 연속; 차례로 배열하다",
+          "source": "answer"
+        },
+        {
+          "word": "symbolic",
+          "meaning": "상징하는, 상징적인",
+          "source": "answer"
+        },
+        {
+          "word": "viewpoint",
+          "meaning": "관점, 견해",
+          "source": "answer"
+        },
+        {
+          "word": "classical",
+          "meaning": "고전주의의, (음악 장르 중) 클래식의",
+          "source": "answer"
+        },
+        {
+          "word": "critic",
+          "meaning": "비평가, 평론가",
+          "source": "answer"
+        },
+        {
+          "word": "literary",
+          "meaning": "문학적인, 문학의",
+          "source": "answer"
+        },
+        {
+          "word": "notation",
+          "meaning": "표기법, 기호",
+          "source": "answer"
+        },
+        {
+          "word": "preview",
+          "meaning": "시사회, 미리 보기; 시사하다",
+          "source": "answer"
+        },
+        {
+          "word": "projection",
+          "meaning": "영사, 투사(된 영상), 돌출, 예상, 추정",
+          "source": "answer"
+        },
+        {
+          "word": "prose",
+          "meaning": "산문, 산문체",
+          "source": "answer"
+        },
+        {
+          "word": "rhetoric",
+          "meaning": "웅변(술), 수사법, 수사학",
+          "source": "answer"
+        },
+        {
+          "word": "adversity",
+          "meaning": "역경",
+          "source": "answer"
+        },
+        {
+          "word": "disability",
+          "meaning": "장애",
+          "source": "answer"
+        }
+      ]
+    },
+    {
+      "id": "week-5",
+      "name": "독해 5과 · 해커스 Day41–43",
+      "subtitle": "TEPS VOCAB 34 · 독해 5과 66 · 해커스 90 · 문법 10",
+      "words": [
+        {
+          "word": "abdicate",
+          "meaning": "사임하다, 퇴위하다",
+          "source": "answer"
+        },
+        {
+          "word": "allegedly",
+          "meaning": "전해진 바에 의하면",
+          "source": "answer"
+        },
+        {
+          "word": "collusion",
+          "meaning": "공모, 결탁",
+          "source": "answer"
+        },
+        {
+          "word": "conscript",
+          "meaning": "군대에 징집하다",
+          "source": "answer"
+        },
+        {
+          "word": "dapper",
+          "meaning": "말쑥한",
+          "source": "answer"
+        },
+        {
+          "word": "demarcation",
+          "meaning": "경계, 구분",
+          "source": "answer"
+        },
+        {
+          "word": "depose",
+          "meaning": "물러나게 하다",
+          "source": "answer"
+        },
+        {
+          "word": "depose",
+          "meaning": "증언하다",
+          "source": "answer"
+        },
+        {
+          "word": "diatribe",
+          "meaning": "비판, 공격",
+          "source": "answer"
+        },
+        {
+          "word": "entourage",
+          "meaning": "수행단",
+          "source": "answer"
+        },
+        {
+          "word": "envoy",
+          "meaning": "외교 사절",
+          "source": "answer"
+        },
+        {
+          "word": "evasive",
+          "meaning": "회피적인",
+          "source": "answer"
+        },
+        {
+          "word": "impeach",
+          "meaning": "(공무원을) 탄핵하다",
+          "source": "answer"
+        },
+        {
+          "word": "inception",
+          "meaning": "시작, 발단, 개시",
+          "source": "answer"
+        },
+        {
+          "word": "irreconcilable",
+          "meaning": "타협할 수 없는, 양립할 수 없는",
+          "source": "answer"
+        },
+        {
+          "word": "mollify",
+          "meaning": "진정시키다",
+          "source": "answer"
+        },
+        {
+          "word": "ostensible",
+          "meaning": "표면적인",
+          "source": "answer"
+        },
+        {
+          "word": "jettison",
+          "meaning": "(화물 등을) 버리다",
+          "source": "answer"
+        },
+        {
+          "word": "jitters",
+          "meaning": "초조, 신경과민",
+          "source": "answer"
+        },
+        {
+          "word": "languish",
+          "meaning": "기력이 없어지다, (불쾌한) 일을 겪다",
+          "source": "answer"
+        },
+        {
+          "word": "linger",
+          "meaning": "꾸물거리다",
+          "source": "answer"
+        },
+        {
+          "word": "overt",
+          "meaning": "명백한, 공공연한",
+          "source": "answer"
+        },
+        {
+          "word": "prerogative",
+          "meaning": "특권",
+          "source": "answer"
+        },
+        {
+          "word": "quarantine",
+          "meaning": "격리하다",
+          "source": "answer"
+        },
+        {
+          "word": "queasy",
+          "meaning": "메스꺼운, 현기증 나는",
+          "source": "answer"
+        },
+        {
+          "word": "retract",
+          "meaning": "철회하다, 취소하다",
+          "source": "answer"
+        },
+        {
+          "word": "ridicule",
+          "meaning": "비웃다, 조소하다",
+          "source": "answer"
+        },
+        {
+          "word": "scrutinize",
+          "meaning": "세밀히 조사하다",
+          "source": "answer"
+        },
+        {
+          "word": "scrutiny",
+          "meaning": "정밀 조사",
+          "source": "answer"
+        },
+        {
+          "word": "seedy",
+          "meaning": "누추한, 초라한",
+          "source": "answer"
+        },
+        {
+          "word": "tamper",
+          "meaning": "함부로 변경하다",
+          "source": "answer"
+        },
+        {
+          "word": "unobtrusively",
+          "meaning": "주제넘지 않게",
+          "source": "answer"
+        },
+        {
+          "word": "vociferous",
+          "meaning": "큰 소리로 외치는, 떠들썩한",
+          "source": "answer"
+        },
+        {
+          "word": "neutron",
+          "meaning": "중성자",
+          "source": "answer"
+        },
+        {
+          "word": "carnivorous",
+          "meaning": "[형] 식충의, 육식성의",
+          "source": "answer"
+        },
+        {
+          "word": "autotrophic",
+          "meaning": "[형] 자가 영양성의",
+          "source": "answer"
+        },
+        {
+          "word": "photosynthesis",
+          "meaning": "[명] 광합성",
+          "source": "answer"
+        },
+        {
+          "word": "chlorophyll",
+          "meaning": "[명] 엽록소",
+          "source": "answer"
+        },
+        {
+          "word": "pigment",
+          "meaning": "[명] 색소",
+          "source": "answer"
+        },
+        {
+          "word": "electromagnetic",
+          "meaning": "[형] 전자기의",
+          "source": "answer"
+        },
+        {
+          "word": "erroneously",
+          "meaning": "[부] 잘못, 틀리게",
+          "source": "answer"
+        },
+        {
+          "word": "attain",
+          "meaning": "[동] 얻다",
+          "source": "answer"
+        },
+        {
+          "word": "insectivorous",
+          "meaning": "[형] 식충성의, 곤충을 먹는",
+          "source": "answer"
+        },
+        {
+          "word": "bladder",
+          "meaning": "[명] 주머니",
+          "source": "answer"
+        },
+        {
+          "word": "vascular",
+          "meaning": "[형] 관다발의",
+          "source": "answer"
+        },
+        {
+          "word": "anatomical",
+          "meaning": "[형] 해부학적인",
+          "source": "answer"
+        },
+        {
+          "word": "paleontological",
+          "meaning": "[형] 고생물학적인",
+          "source": "answer"
+        },
+        {
+          "word": "theropod",
+          "meaning": "[명] 수각류(두 발로 보행하는 육식공룡)",
+          "source": "answer"
+        },
+        {
+          "word": "Archaeopteryx",
+          "meaning": "[명] 시조새",
+          "source": "answer"
+        },
+        {
+          "word": "assume",
+          "meaning": "[동] (특성을) 지니다, 띠다",
+          "source": "answer"
+        },
+        {
+          "word": "inevitable",
+          "meaning": "[형] 필연적인, 불가피한",
+          "source": "answer"
+        },
+        {
+          "word": "correlation",
+          "meaning": "[명] 상관 관계",
+          "source": "answer"
+        },
+        {
+          "word": "maneuverability",
+          "meaning": "[명] 기동성, 조종성",
+          "source": "answer"
+        },
+        {
+          "word": "aloft",
+          "meaning": "[부] 하늘 높이",
+          "source": "answer"
+        },
+        {
+          "word": "wishbone",
+          "meaning": "[명] 위시본(조류의 목차 가슴 사이의 V자형 뼈)",
+          "source": "answer"
+        },
+        {
+          "word": "elongated",
+          "meaning": "[형] 길어진",
+          "source": "answer"
+        },
+        {
+          "word": "alteration",
+          "meaning": "[명] 변화, 개조",
+          "source": "answer"
+        },
+        {
+          "word": "metabolism",
+          "meaning": "[명] 신진대사",
+          "source": "answer"
+        },
+        {
+          "word": "endotherm",
+          "meaning": "[명] 온혈 동물, 정온 동물",
+          "source": "answer"
+        },
+        {
+          "word": "ectotherm",
+          "meaning": "[명] 냉혈 동물, 변온 동물",
+          "source": "answer"
+        },
+        {
+          "word": "commence",
+          "meaning": "[동] 시작하다",
+          "source": "answer"
+        },
+        {
+          "word": "primordial",
+          "meaning": "[형] 원시적인",
+          "source": "answer"
+        },
+        {
+          "word": "exploit",
+          "meaning": "[동] 이용하다",
+          "source": "answer"
+        },
+        {
+          "word": "disperse",
+          "meaning": "[동] 퍼지다",
+          "source": "answer"
+        },
+        {
+          "word": "hone",
+          "meaning": "[동] (기술을) 연마하다",
+          "source": "answer"
+        },
+        {
+          "word": "niche",
+          "meaning": "[명] 생태적 지위, 틈새",
+          "source": "answer"
+        },
+        {
+          "word": "nomadic",
+          "meaning": "[형] 유목의",
+          "source": "answer"
+        },
+        {
+          "word": "pastoralism",
+          "meaning": "[명] 목축",
+          "source": "answer"
+        },
+        {
+          "word": "hamper",
+          "meaning": "[동] 방해하다",
+          "source": "answer"
+        },
+        {
+          "word": "constraint",
+          "meaning": "[명] 제약, 제한",
+          "source": "answer"
+        },
+        {
+          "word": "settlement",
+          "meaning": "[명] 정착지",
+          "source": "answer"
+        },
+        {
+          "word": "grazing",
+          "meaning": "[명] 방목, 목축",
+          "source": "answer"
+        },
+        {
+          "word": "sparse",
+          "meaning": "[형] 드문드문한",
+          "source": "answer"
+        },
+        {
+          "word": "pasture",
+          "meaning": "[명] 목초지, 초원",
+          "source": "answer"
+        },
+        {
+          "word": "herd",
+          "meaning": "[명] (가축의) 떼, 무리",
+          "source": "answer"
+        },
+        {
+          "word": "permanent",
+          "meaning": "[형] 영구적인",
+          "source": "answer"
+        },
+        {
+          "word": "sedentary",
+          "meaning": "[형] 정착하는",
+          "source": "answer"
+        },
+        {
+          "word": "interdependence",
+          "meaning": "[명] 상호 의존성",
+          "source": "answer"
+        },
+        {
+          "word": "migrant",
+          "meaning": "[형] 유목하는, 이주하는",
+          "source": "answer"
+        },
+        {
+          "word": "breakthrough",
+          "meaning": "[명] 돌파구",
+          "source": "answer"
+        },
+        {
+          "word": "divert",
+          "meaning": "[동] (방향을) 돌리다",
+          "source": "answer"
+        },
+        {
+          "word": "at intervals",
+          "meaning": "간격을 두고",
+          "source": "answer"
+        },
+        {
+          "word": "cavalry",
+          "meaning": "[명] 기병대",
+          "source": "answer"
+        },
+        {
+          "word": "reluctance",
+          "meaning": "[명] 꺼리는 것",
+          "source": "answer"
+        },
+        {
+          "word": "faction",
+          "meaning": "[명] 파벌, 분파",
+          "source": "answer"
+        },
+        {
+          "word": "stability",
+          "meaning": "[명] 안정성",
+          "source": "answer"
+        },
+        {
+          "word": "overwhelmingly",
+          "meaning": "[부] 압도적으로",
+          "source": "answer"
+        },
+        {
+          "word": "perspective",
+          "meaning": "[명] 관점",
+          "source": "answer"
+        },
+        {
+          "word": "measurable",
+          "meaning": "[형] 측정 가능한",
+          "source": "answer"
+        },
+        {
+          "word": "entity",
+          "meaning": "[명] 실체, 존재",
+          "source": "answer"
+        },
+        {
+          "word": "monumental",
+          "meaning": "[형] 기념비적인, 엄청난",
+          "source": "answer"
+        },
+        {
+          "word": "breakthrough",
+          "meaning": "[명] (과학적) 발견",
+          "source": "answer"
+        },
+        {
+          "word": "temper",
+          "meaning": "[동] 완화하다",
+          "source": "answer"
+        },
+        {
+          "word": "manipulate",
+          "meaning": "[동] 조작하다",
+          "source": "answer"
+        },
+        {
+          "word": "expire",
+          "meaning": "[동] 소멸하다, 죽다",
+          "source": "answer"
+        },
+        {
+          "word": "respiration",
+          "meaning": "[명] 호흡",
+          "source": "answer"
+        },
+        {
+          "word": "combustion",
+          "meaning": "[명] 연소",
+          "source": "answer"
+        },
+        {
+          "word": "deprive",
+          "meaning": "[동] 빼앗다",
+          "source": "answer"
+        },
+        {
+          "word": "constituent",
+          "meaning": "[명] 요소, 성분",
+          "source": "answer"
+        },
+        {
+          "word": "on the verge of",
+          "meaning": "~의 직전에",
+          "source": "answer"
+        },
+        {
+          "word": "abbreviate",
+          "meaning": "축약하다, 줄여 쓰다",
+          "source": "answer"
+        },
+        {
+          "word": "acquire",
+          "meaning": "습득하다, 획득하다",
+          "source": "answer"
+        },
+        {
+          "word": "colloquial",
+          "meaning": "구어체의, 일상 회화의",
+          "source": "answer"
+        },
+        {
+          "word": "converse",
+          "meaning": "대화하다, 거꾸로의",
+          "source": "answer"
+        },
+        {
+          "word": "define",
+          "meaning": "정의하다, 분명히 하다",
+          "source": "answer"
+        },
+        {
+          "word": "derive",
+          "meaning": "유래하다, 파생하다",
+          "source": "answer"
+        },
+        {
+          "word": "intonation",
+          "meaning": "억양, 어조",
+          "source": "answer"
+        },
+        {
+          "word": "intrinsic",
+          "meaning": "고유한, 본질적인",
+          "source": "answer"
+        },
+        {
+          "word": "linguistic",
+          "meaning": "언어의, 언어학의",
+          "source": "answer"
+        },
+        {
+          "word": "nuance",
+          "meaning": "뉘앙스, 미묘한 차이",
+          "source": "answer"
+        },
+        {
+          "word": "omit",
+          "meaning": "생략하다, 빼다",
+          "source": "answer"
+        },
+        {
+          "word": "outdated",
+          "meaning": "시대에 뒤진, 구식인",
+          "source": "answer"
+        },
+        {
+          "word": "paraphrase",
+          "meaning": "바꾸어 말하다",
+          "source": "answer"
+        },
+        {
+          "word": "pinpoint",
+          "meaning": "정확히 찾아내다",
+          "source": "answer"
+        },
+        {
+          "word": "primary",
+          "meaning": "주요한, 근본적인",
+          "source": "answer"
+        },
+        {
+          "word": "proclaim",
+          "meaning": "선포하다, 선언하다",
+          "source": "answer"
+        },
+        {
+          "word": "progressive",
+          "meaning": "진보적인, 점진적인",
+          "source": "answer"
+        },
+        {
+          "word": "purpose",
+          "meaning": "목적, 의도, 결심",
+          "source": "answer"
+        },
+        {
+          "word": "singular",
+          "meaning": "단일한, 단수의",
+          "source": "answer"
+        },
+        {
+          "word": "term",
+          "meaning": "용어, 말, 기간",
+          "source": "answer"
+        },
+        {
+          "word": "terminology",
+          "meaning": "전문 용어",
+          "source": "answer"
+        },
+        {
+          "word": "verbal",
+          "meaning": "언어의, 말의",
+          "source": "answer"
+        },
+        {
+          "word": "bilingual",
+          "meaning": "두 개 언어를 할 줄 아는",
+          "source": "answer"
+        },
+        {
+          "word": "fluency",
+          "meaning": "유창함, 능숙도",
+          "source": "answer"
+        },
+        {
+          "word": "grammatical",
+          "meaning": "문법적인",
+          "source": "answer"
+        },
+        {
+          "word": "jargon",
+          "meaning": "전문 용어, 특수 용어",
+          "source": "answer"
+        },
+        {
+          "word": "phonetic",
+          "meaning": "발음의, 음성의",
+          "source": "answer"
+        },
+        {
+          "word": "prefix",
+          "meaning": "접두사",
+          "source": "answer"
+        },
+        {
+          "word": "pronunciation",
+          "meaning": "발음, 발음 표기",
+          "source": "answer"
+        },
+        {
+          "word": "usage",
+          "meaning": "사용, 쓰임새",
+          "source": "answer"
+        },
+        {
+          "word": "chronically",
+          "meaning": "만성적으로",
+          "source": "previous"
+        },
+        {
+          "word": "to advantage",
+          "meaning": "유익하게, 유리하게",
+          "source": "previous"
+        },
+        {
+          "word": "institutionalize",
+          "meaning": "시설에 수용하다",
+          "source": "previous"
+        },
+        {
+          "word": "affection",
+          "meaning": "애정",
+          "source": "previous"
+        },
+        {
+          "word": "acclaim",
+          "meaning": "찬사를 보내다, 환호하다",
+          "source": "previous"
+        },
+        {
+          "word": "adorn",
+          "meaning": "장식하다, 꾸미다",
+          "source": "previous"
+        },
+        {
+          "word": "appreciate",
+          "meaning": "인정하다, 감상하다",
+          "source": "previous"
+        },
+        {
+          "word": "author",
+          "meaning": "저자, 작가, 창시자",
+          "source": "previous"
+        },
+        {
+          "word": "creative",
+          "meaning": "창조적인, 창의적인",
+          "source": "previous"
+        },
+        {
+          "word": "decorative",
+          "meaning": "장식용의, 장식적인",
+          "source": "previous"
+        },
+        {
+          "word": "depict",
+          "meaning": "묘사하다, 그리다",
+          "source": "previous"
+        },
+        {
+          "word": "display",
+          "meaning": "전시하다, 진열하다",
+          "source": "previous"
+        },
+        {
+          "word": "dye",
+          "meaning": "염색하다, 물들이다",
+          "source": "previous"
+        },
+        {
+          "word": "exhibit",
+          "meaning": "전시하다, 나타내다",
+          "source": "previous"
+        },
+        {
+          "word": "express",
+          "meaning": "표현하다, 나타내다",
+          "source": "previous"
+        },
+        {
+          "word": "illustrate",
+          "meaning": "그리다, 설명하다",
+          "source": "previous"
+        },
+        {
+          "word": "impressive",
+          "meaning": "인상적인, 감명 깊은",
+          "source": "previous"
+        },
+        {
+          "word": "indeed",
+          "meaning": "정말, 사실은",
+          "source": "previous"
+        },
+        {
+          "word": "inspire",
+          "meaning": "영감을 주다, 격려하다",
+          "source": "previous"
+        },
+        {
+          "word": "ornament",
+          "meaning": "장식품, 장식하다",
+          "source": "previous"
+        },
+        {
+          "word": "patronage",
+          "meaning": "후원, 지원, 애용",
+          "source": "previous"
+        },
+        {
+          "word": "pigment",
+          "meaning": "색소, 그림물감",
+          "source": "previous"
+        },
+        {
+          "word": "portray",
+          "meaning": "묘사하다, 그리다",
+          "source": "previous"
+        },
+        {
+          "word": "pottery",
+          "meaning": "도자기, 도예",
+          "source": "previous"
+        },
+        {
+          "word": "replicate",
+          "meaning": "복제하다, 모사하다",
+          "source": "previous"
+        },
+        {
+          "word": "visual",
+          "meaning": "시각적인, 시각의",
+          "source": "previous"
+        },
+        {
+          "word": "aesthetics",
+          "meaning": "미학",
+          "source": "previous"
+        },
+        {
+          "word": "artisan",
+          "meaning": "장인, 공예가",
+          "source": "previous"
+        },
+        {
+          "word": "calligraphy",
+          "meaning": "서예",
+          "source": "previous"
+        },
+        {
+          "word": "ceramic",
+          "meaning": "도자기, 도예",
+          "source": "previous"
+        },
+        {
+          "word": "contour",
+          "meaning": "윤곽, 외형, 등고선",
+          "source": "previous"
+        },
+        {
+          "word": "gemstone",
+          "meaning": "보석의 원석",
+          "source": "previous"
+        },
+        {
+          "word": "memoir",
+          "meaning": "회고록, 전기",
+          "source": "previous"
+        },
+        {
+          "word": "theme",
+          "meaning": "주제, 테마",
+          "source": "previous"
+        },
+        {
+          "word": "optimism",
+          "meaning": "낙관주의",
+          "source": "previous"
+        },
+        {
+          "word": "worship",
+          "meaning": "숭배하다",
+          "source": "previous"
+        },
+        {
+          "word": "relive",
+          "meaning": "다시 체험하다",
+          "source": "previous"
+        },
+        {
+          "word": "accuracy",
+          "meaning": "정확성",
+          "source": "previous"
+        },
+        {
+          "word": "abstract",
+          "meaning": "추상적인, 이론적인; 추상화하다",
+          "source": "previous"
+        },
+        {
+          "word": "allegory",
+          "meaning": "우화, 풍자, 비유",
+          "source": "previous"
+        },
+        {
+          "word": "anecdote",
+          "meaning": "일화, 개인적 이야기",
+          "source": "previous"
+        },
+        {
+          "word": "audience",
+          "meaning": "관객, 청중, 시청자",
+          "source": "previous"
+        },
+        {
+          "word": "climax",
+          "meaning": "절정, 최고조",
+          "source": "previous"
+        },
+        {
+          "word": "compilation",
+          "meaning": "모음집, 편집(물)",
+          "source": "previous"
+        },
+        {
+          "word": "connotation",
+          "meaning": "암시, 함축, 내포",
+          "source": "previous"
+        },
+        {
+          "word": "describe",
+          "meaning": "서술하다, 묘사하다",
+          "source": "previous"
+        },
+        {
+          "word": "fable",
+          "meaning": "우화, 전설, 신화",
+          "source": "previous"
+        },
+        {
+          "word": "fiction",
+          "meaning": "허구, 소설",
+          "source": "previous"
+        },
+        {
+          "word": "genre",
+          "meaning": "(예술 작품의) 장르, 유형",
+          "source": "previous"
+        },
+        {
+          "word": "humorous",
+          "meaning": "재미있는, 유머러스한",
+          "source": "previous"
+        },
+        {
+          "word": "monotonous",
+          "meaning": "단조로운, 변화 없는, 지루한",
+          "source": "previous"
+        },
+        {
+          "word": "mythology",
+          "meaning": "신화",
+          "source": "previous"
+        },
+        {
+          "word": "narrate",
+          "meaning": "내레이션을 하다, (이야기 등을) 들려주다",
+          "source": "previous"
+        },
+        {
+          "word": "openly",
+          "meaning": "공공연히, 터놓고, 솔직하게",
+          "source": "previous"
+        },
+        {
+          "word": "prologue",
+          "meaning": "프롤로그, 도입부, 머리말",
+          "source": "previous"
+        },
+        {
+          "word": "protagonist",
+          "meaning": "주인공, 주도자",
+          "source": "previous"
+        },
+        {
+          "word": "scenario",
+          "meaning": "시나리오, 각본, (미래에 가능한) 경우",
+          "source": "previous"
+        },
+        {
+          "word": "sequence",
+          "meaning": "순서, (사건·장면의) 연속; 차례로 배열하다",
+          "source": "previous"
+        },
+        {
+          "word": "symbolic",
+          "meaning": "상징하는, 상징적인",
+          "source": "previous"
+        },
+        {
+          "word": "viewpoint",
+          "meaning": "관점, 견해",
+          "source": "previous"
+        },
+        {
+          "word": "classical",
+          "meaning": "고전주의의, (음악 장르 중) 클래식의",
+          "source": "previous"
+        },
+        {
+          "word": "critic",
+          "meaning": "비평가, 평론가",
+          "source": "previous"
+        },
+        {
+          "word": "literary",
+          "meaning": "문학적인, 문학의",
+          "source": "previous"
+        },
+        {
+          "word": "notation",
+          "meaning": "표기법, 기호",
+          "source": "previous"
+        },
+        {
+          "word": "preview",
+          "meaning": "시사회, 미리 보기; 시사하다",
+          "source": "previous"
+        },
+        {
+          "word": "projection",
+          "meaning": "영사, 투사(된 영상), 돌출, 예상, 추정",
+          "source": "previous"
+        },
+        {
+          "word": "prose",
+          "meaning": "산문, 산문체",
+          "source": "previous"
+        },
+        {
+          "word": "rhetoric",
+          "meaning": "웅변(술), 수사법, 수사학",
+          "source": "previous"
+        },
+        {
+          "word": "adversity",
+          "meaning": "역경",
+          "source": "previous"
+        },
+        {
+          "word": "disability",
+          "meaning": "장애",
+          "source": "previous"
+        }
+      ]
+    }
+  ]
+}
